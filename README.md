@@ -11,6 +11,9 @@ This php class can provide you functionality of embedding youtube to mp3 convers
 <li>That's it! You'll see a yt to mp3 widgets with download link.</li>
 </ul>
 
-
 <h3>Requirements</h3>
 <li>PHP enabled any webserver or loaclhost, no additional plugins like ffmpeg/youtube-dl is needed.</li>
+
+<h3>Support</h3>
+<p>You know it's a free service but still don't hesitate to ask me any query at api@youtube6download.top<br/>
+I'll do my best to help you :)</p>
