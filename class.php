@@ -11,9 +11,9 @@
 		// OPTIONS
 		$domain = "https://redirects.coolguruji.com/";
 		$width = "100%"; // you can change it as you want like 200px etc
-		$height = "92";  // don't change it!
+		$height = "150";  // don't change it!
 		$path = "?id=";  // don't change it!
-		$color = "background: #fff;min-height:95px;min-width:320px";  // You can change the background color of the iframe by default its white
+		$color = "background: #fff;min-height:135px;min-width:320px";  // You can change the background color of the iframe by default its white
 
 		if(!empty($id)) {
 	       	// GENERATING IFRAME CODE
